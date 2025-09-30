@@ -6,9 +6,12 @@ Feel free to contribute by adding your favorite resources!
 ---
 
 ## 📖 Categories
-- [Books](./books/)
-- [Notes](./notes/)
-- [Useful Links](./links/)
+- [🐍 Python](./Python/)
+- [🧠 Machine Learning](./Machine%20Learning/)
+- [🗄️ SQL](./SQL/)
+- [📝 Cheatsheets](./Cheatsheets/)
+- [📌 Interview Questions](./Interview_Question/)
+- [🗺️ Roadmap & Guides](./Roadmap-Guides/)
 
 ---
 
